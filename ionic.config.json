@@ -1,0 +1,7 @@
+{
+  "name": "myFisrtAppB",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
